@@ -10,5 +10,6 @@ The script , contains the code for the primary analysis, and reads in a file whi
 
 Requirements: 
 
-   - tidyverse
-   - stargazer
+   - tidyverse 1.3.1
+   - stargazer 5.2.3
+
