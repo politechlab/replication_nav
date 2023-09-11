@@ -19,7 +19,7 @@ To run the code navigate to this directory and execute `Rscript run\_analysis.R`
 
 #### Data Description
 
-In the paper each observation is a student. Here, to preserve anonymity, the level of observation is a high-school year. In this file each row is an observation at a given school in a given year. The value stored in the undermatched column is the proportion of high-achieving students at this school who have undermatched in this year.  
+In the paper each observation is a student. Here, to preserve anonymity, the level of observation is a high-school year. In this file each row is an observation at a given school in a given year. The value stored in the undermatched column is the proportion of high-achieving students at this school who have undermatched in this year. The value in the column named `treatment` is True if we estimate that students had access to the Scattergram tool, and False otherwise.  
 
 
 If you have any questions please contact Sabina Tomkins at stomkins@umich.edu. 
