@@ -6,7 +6,9 @@ CITATION TO BE UPDATED
 
 The script , contains the code for the primary analysis, and reads in a file which is in this repository "table\_one\_column\_one.csv".
 
-In this file each row is an observation at a given school in a given year. The value stored in the undermatched column is the proportion of students at this school who have undermatched.  
+
+In the paper each observation is a student. Here, to preserve anonymity, the level of observation is a high-school year. In this file each row is an observation at a given school in a given year. The value stored in the undermatched column is the proportion of students at this school who have undermatched.  
+
 
 Requirements: 
 
