@@ -15,7 +15,7 @@ Requirements:
    - tidyverse 1.3.1
    - stargazer 5.2.3
 
-To run the code navigate to this directory and execute `Rscript run\_analysis.R`
+To run the code navigate to this directory and execute `Rscript run_analysis.R`
 
 #### Data Description
 
