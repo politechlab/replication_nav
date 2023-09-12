@@ -5,6 +5,7 @@ CITATION TO BE UPDATED
 . 
 
 We have provided anonymized and aggregated data to replicate the primary analysis shown in Table One. 
+This analysis shows that students exposed to the tool described in the paper undermatched at a greater rate. 
 
 #### Code Description
 
